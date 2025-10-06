@@ -52,11 +52,20 @@ Derived morpheme embedding matrix (25 morphemes × 5 features):
 
 Happy spelunking!
 
+---
+
 > **License:** Noncommercial (Polyform Noncommercial 1.0.0).  
 > Commercial use requires permission — see `COMMERCIAL.md`.
 
 ## Data Licensing
 The code is licensed under Polyform Noncommercial 1.0.0 (see `LICENSE`).
 The bundled wordlist/definitions are licensed under CC BY-NC 4.0 (see `LICENSE-data`).
+
+---
+
+### Erebus is a research probe into meaning’s smallest units.
+It’s shared here for curiosity, education, and creative experimentation.
+If you wish to include it in a commercial or institutional project, please reach out first.
+I don’t charge fees — I just want to ensure ethical and aligned use.
 
 Copyright (c) 2025 Payton Ison.
