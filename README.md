@@ -59,3 +59,4 @@ Happy spelunking!
 The code is licensed under Polyform Noncommercial 1.0.0 (see `LICENSE`).
 The bundled wordlist/definitions are licensed under CC BY-NC 4.0 (see `LICENSE-data`).
 
+Copyright (c) 2025 Payton Ison.
