@@ -52,11 +52,4 @@ Derived morpheme embedding matrix (25 morphemes × 5 features):
 
 Happy spelunking!
 
-> **License:** Noncommercial (Polyform Noncommercial 1.0.0).  
-> Commercial use requires permission — see `COMMERCIAL.md`.
-
-## Data Licensing
-The code is licensed under Polyform Noncommercial 1.0.0 (see `LICENSE`).
-The bundled wordlist/definitions are licensed under CC BY-NC 4.0 (see `LICENSE-data`).
-
-Copyright (c) 2025 Payton Ison.
+>Distrubuted under the MIT License.
